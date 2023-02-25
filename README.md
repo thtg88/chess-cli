@@ -6,6 +6,7 @@ Play chess in your terminal!
 
 This is a work in progress, a lot of things are (still) missing:
 
+- capturing
 - castling
 - en passant
 - pawn promotion
